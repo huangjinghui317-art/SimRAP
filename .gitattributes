@@ -1,0 +1,4 @@
+resources/dataset_with_ALIGNN/mbj_bandgap/train.csv filter=lfs diff=lfs merge=lfs -text
+resources/dataset_with_ALIGNN/magmom/val.csv filter=lfs diff=lfs merge=lfs -text
+resources/dataset_with_ALIGNN/magmom/train.csv filter=lfs diff=lfs merge=lfs -text
+resources/dataset_with_ALIGNN/bulk_modulus/train.csv filter=lfs diff=lfs merge=lfs -text

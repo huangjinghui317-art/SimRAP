@@ -1,0 +1,9 @@
+torch
+pymatgen
+pandas
+numpy
+tqdm
+matplotlib
+psutil
+scipy
+jarvis-tools
